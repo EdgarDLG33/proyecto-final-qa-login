@@ -75,8 +75,6 @@ Incluye pruebas para:
   <img src="captura_login.png" width="450px" alt="Login Preview">
 </p>
 
-> Puedes reemplazar la imagen subiendo una captura al repositorio y enlazándola en el README.
-
 ---
 
 ## 👤 Autor
